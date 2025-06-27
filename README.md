@@ -13,12 +13,15 @@ While researching the Topic i discovered this page: http://codekata.com/
 And it seems like it is a thing!
 
 https://codingdojo.org/kata/
+
 https://github.com/gamontal/awesome-katas
+
 https://www.codewars.com/kata/latest
 
 There is also the possiblity to integrate Coding Challanges like:
 
 https://www.codewars.com/
+
 https://www.hackerrank.com/
 
 But everything seems kinda chaotic to me. Not structured enough. Too scattered.
